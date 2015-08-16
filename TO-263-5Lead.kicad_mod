@@ -1,4 +1,4 @@
-(module TO-263-5Lead (layer F.Cu) (tedit 55CFB538)
+(module TO-263-5Lead (layer F.Cu) (tedit 55D02E09)
   (descr "D2PAK / TO-263 5-lead smd package")
   (tags "d2pak d2pak-5 to-263ab to-263")
   (attr smd)
@@ -23,6 +23,6 @@
   (model TO_SOT_Packages_SMD.3dshapes/TO-263-5Lead.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 90))
   )
 )
