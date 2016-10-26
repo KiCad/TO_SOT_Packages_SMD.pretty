@@ -1,6 +1,6 @@
 (module SOT-143_Handsoldering (layer F.Cu) (tedit 580EBEFA)
-  (descr "SOT-143, Handsoldering")
-  (tags "SOT-143, Handsoldering")
+  (descr "SOT-143 Handsoldering")
+  (tags "SOT-143 Handsoldering")
   (attr smd)
   (fp_text reference REF** (at 0 -4.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

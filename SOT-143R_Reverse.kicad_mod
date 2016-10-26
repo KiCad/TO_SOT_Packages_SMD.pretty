@@ -1,6 +1,6 @@
 (module SOT-143R_Reverse (layer F.Cu) (tedit 580EBE32)
-  (descr "SOT-143R, Reverse")
-  (tags "SOT-143R, Reverse")
+  (descr "SOT-143R Reverse")
+  (tags "SOT-143R Reverse")
   (attr smd)
   (fp_text reference REF** (at 0 -2.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
