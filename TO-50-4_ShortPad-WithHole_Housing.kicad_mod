@@ -1,4 +1,5 @@
-(module TO-50-4_ShortPad-WithHole_Housing (layer F.Cu) (tedit 5883967C)
+(module TO-50-4_ShortPad-WithHole_Housing (layer F.Cu) (tedit 58839745)
+  (descr "TO-50-4 Macro X Package Style M238")
   (tags "TO-50-4 Macro X Package Style M238")
   (attr smd)
   (fp_text reference REF** (at -4.2 -5) (layer F.SilkS)

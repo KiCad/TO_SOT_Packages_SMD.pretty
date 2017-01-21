@@ -1,4 +1,5 @@
-(module PowerMacro_M234_WithHole (layer F.Cu) (tedit 58836193)
+(module PowerMacro_M234_WithHole (layer F.Cu) (tedit 58839882)
+  (descr "TO-50-4 Power Macro Package Style M234")
   (tags "TO-50-4 Power Macro Package Style M234")
   (attr smd)
   (fp_text reference REF** (at 4.75 -3.75) (layer F.SilkS)

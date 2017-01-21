@@ -1,4 +1,5 @@
 (module TO-50-4_LongPad-NoHole_Housing (layer F.Cu) (tedit 58839507)
+  (descr "TO-50-4 Macro X Package Style M238")
   (tags "TO-50-4 Macro X Package Style M238")
   (attr smd)
   (fp_text reference REF** (at -4.2 -5.3) (layer F.SilkS)

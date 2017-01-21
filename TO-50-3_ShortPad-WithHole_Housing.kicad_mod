@@ -1,4 +1,5 @@
 (module TO-50-3_ShortPad-WithHole_Housing (layer F.Cu) (tedit 588394D4)
+  (descr "TO-50-3 Macro T Package Style M236")
   (tags "TO-50-3 Macro T Package Style M236")
   (attr smd)
   (fp_text reference REF** (at -1.4 -4.4) (layer F.SilkS)
