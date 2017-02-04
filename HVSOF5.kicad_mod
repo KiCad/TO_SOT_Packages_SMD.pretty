@@ -1,5 +1,5 @@
-(module HVSOF5 (layer F.Cu) (tedit 58879BD5)
-  (descr HVSOF5)
+(module HVSOF5 (layer F.Cu) (tedit 58961760)
+  (descr "HVSOF5, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hvsof5_1-e.pdf")
   (tags HVSOF5)
   (attr smd)
   (fp_text reference REF** (at 0 -1.8) (layer F.SilkS)
