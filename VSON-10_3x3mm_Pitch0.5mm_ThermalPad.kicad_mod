@@ -1,4 +1,4 @@
-(module VSON-10-Th_11SC_3x3mm_Pitch0.5mm (layer F.Cu) (tedit 5898508C)
+(module VSON-10_3x3mm_Pitch0.5mm_ThermalPad (layer F.Cu) (tedit 58A327E3)
   (descr "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm")
   (tags "VSON 10 Thermal on 11 3x3mm Pitch 0.5mm")
   (attr smd)
