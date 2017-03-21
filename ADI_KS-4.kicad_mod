@@ -1,4 +1,4 @@
-(module Analog_KS-4 (layer F.Cu) (tedit 58D13C58)
+(module ADI_KS-4 (layer F.Cu) (tedit 58D13C58)
   (descr "Analog Devices KS-4, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sc70ks/ks_4.pdf")
   (tags "Analog Devices KS-4 (like EIAJ SC-82)")
   (attr smd)
