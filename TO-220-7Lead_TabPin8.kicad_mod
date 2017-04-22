@@ -38,7 +38,7 @@
   (pad 1 smd rect (at -5.775 -3.81) (size 4.6 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -5.775 0) (size 4.6 0.8) (layers F.Cu F.Paste F.Mask))
   (pad 7 smd rect (at -5.775 3.81) (size 4.6 0.8) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/TO-220-7-4.wrl
+  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/TO-220-7Lead_TabPin8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
