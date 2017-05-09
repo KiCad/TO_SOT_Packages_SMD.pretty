@@ -1,5 +1,5 @@
 (module DRT-3 (layer F.Cu) (tedit 58FEF688)
-  (descr "Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm")
+  (descr "Texas Instrument DRT-3 1x0.8mm Pitch 0.7mm http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf")
   (tags "DRT-3 1x0.8mm Pitch 0.7mm")
   (attr smd)
   (fp_text reference REF** (at 0 -1.5) (layer F.SilkS)
@@ -27,7 +27,7 @@
   (pad 1 smd rect (at -0.35 0.425) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.35 0.425) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 -0.425) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
-  (model TO_SOT_Packages_SMD.3dshapes/DRT-3.wrl
+  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/DRT-3.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
