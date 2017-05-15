@@ -68,8 +68,8 @@
   (pad 5 smd rect (at 2.86 0.6 270) (size 0.6 0.9) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 0.16 0) (size 0.6 0.9) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/SOT-669_LFPAK.wrl
-    (at (xyz -0.01 0 0))
-    (scale (xyz 0.39 0.39 0.39))
-    (rotate (xyz 0 0 90))
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
